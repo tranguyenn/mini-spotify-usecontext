@@ -1,0 +1,16 @@
+.controller-container{
+    background-color: 	rgb(255,89,199);
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 66px;
+    width: 100%;
+    border-radius: 0px 0px 70px 70px;
+    font-weight: 600;
+}
+
+.controller-container .Button{
+    color: black;
+}

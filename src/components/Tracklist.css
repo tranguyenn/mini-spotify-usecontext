@@ -1,0 +1,19 @@
+.track-list-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.song-title{
+    display: flex;
+    align-items: center;
+    background-color: hsla(0, 0%, 100%, .5);
+    border: none;
+    border-radius: 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 8px;
+    font-weight: 600;
+}
+p{
+    padding-left: 5px;
+}
